@@ -6,4 +6,8 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
+I have added items to the readme file, I guess I need to figure out how to update the something other than the read me files.
+
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+
+But I think I am getting it.  Now all i have to do is get Android Studio installed.
